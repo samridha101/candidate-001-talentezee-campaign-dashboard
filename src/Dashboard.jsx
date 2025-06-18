@@ -2,7 +2,7 @@
 import CampaignForm from './components/CampaignForm';
 import AnalyticsWidget from './components/AnalyticsWidget';
 import RaffleWidget from './components/RaffleWidget';
-import BuyCreditButton from './components/BuyCreditButton';
+import BuyCreditsButton from './components/BuyCreditsButton';
 
 export default function Dashboard() {
   return (
